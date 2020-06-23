@@ -21,10 +21,7 @@
 title: Altera Vita
 email: joshuabyrd@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello and welcome to Altera Vita. It's not much to look at yet, but
-  that will change. In the future, I hope to feature projects I've done
-  or am working on to serve as both an online portfolio and blog detailing
-  my experiences as a non-traditional student of tech.
+  Altera Vita is the personal blog and portfolio of Joshua Byrd.
 baseurl: "/Altera_Vita" # the subpath of your site, e.g. /blog
 url: "https://github.com/Joshua-Byrd" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Joshua-Byrd
