@@ -19,7 +19,7 @@ In the last few weeks, I finished up my summer course at WVU, finished the intro
 
 ## Grad School
 
-I applied to one computer science program and one data science program. Both are long shots due to my lack of higher math, but I have to try. I'm hoping my GPA, projects, and letters of recommendation will give me a boost, but I'm also preparing myself for rejection.
+I applied to one computer science program and one data science program. Both are long shots due to my lack of higher math, but I have to try. I'm hoping my GPA, projects, and letters of recommendation will give me a boost, but we'll see.
 
 I've been working my way through Khan Academy's courses to make up for the math I haven't had, but that's tough too, due to the aforementioned time issue.  I've had a fair amount of discrete math (set theory, probability, and combinatorics), but I've never had calculus. So I picked up a copy of *Calculus: A Rigorous First Course* from Daniel Velleman and *Mathematics: A Discrete Introduction* by Edward Scheinerman (mostly for the proofs stuff), to start working through those as well. Tolstoy said the two most powerful warriors are patience and time, but I'm running out of both.   
 
