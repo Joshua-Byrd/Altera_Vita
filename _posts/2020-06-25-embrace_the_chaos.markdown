@@ -7,7 +7,7 @@ categories: General
 
 Here's the first truth about going back to school: you will *always* be tired.  
 
-Until a few months ago, this was my typical daily schedule:
+For the first few years of my degree, this was my typical daily schedule:
 
 3:00am - Wake up, read the news, and start working on school work.   
 6:00am - Take a shower, get ready for work.  
@@ -18,7 +18,7 @@ Until a few months ago, this was my typical daily schedule:
 6:00pm - Dinner, family time, reading before bed etc.  
 9:00pm - Bedtime *usually*.  
 
-Yes, I literally woke up at 3:00am almost every day for three years. I did this for two reasons. First, it was the only guaranteed quiet time in my household. I am not good at studying with noise or even music unless is something quiet and ambient. And, second, the way I saw it, if I worked in the morning before everyone woke up, I wasn't taking time away from my family for this crazy pursuit. I feel extremely guilty about that sometimes.
+Yes, I literally woke up at 3:00am almost every day for three years. I did this for two reasons. First, it was the only guaranteed quiet time in my household. I am not good at studying with noise or even music unless it's something quiet and ambient. And, second, the way I saw it, if I worked in the morning before everyone woke up, I wasn't taking time away from my family for this crazy pursuit. I feel extremely guilty about that sometimes.
 
 A year and a half ago, this changed when we added a new baby. My wife generally handled getting him to and from the in-laws, who thankfully watched him during the day, and my schedule didn't change drastically. There was of course, the first six months or so when we alternated waking up for feedings. That time is pretty hazy.  
 
