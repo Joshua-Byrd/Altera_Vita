@@ -13,5 +13,5 @@ Maybe it's just me.
 
 Keep trying new things is the point I'm trying to make. So what if you fail? You will die, and likely sooner than you wish, and not one person will care what things you tried and failed at. But the people closest to you will probably remember you as someone who was no afraid to jump in with both feet and see what happens.  
 
-The title of this post, if you're wondering, refers the many, many times I've questioned my ability to do computer science or analytics or anything more complicated than making coffee. Todays let's make Josh feel like an idiot topic? [Cubic-bezier curves](https://www.w3schools.com/cssref/func_cubic-bezier.asp)
+The title of this post, if you're wondering, refers the many, many times I've questioned my ability to do computer science or analytics or anything more complicated than making coffee. Today's "let's make Josh feel like an idiot" topic? [Cubic-bezier curves](https://www.w3schools.com/cssref/func_cubic-bezier.asp).
 
