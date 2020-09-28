@@ -9,7 +9,7 @@ As the summer semester came to an end, and the fall semester (my last!) approach
 
 Actually, I was a pretty damn good bass player and I *did* have something to share, but that's beside the point. I never doubted that there was someone out there who would enjoy and benefit from the content I made. I think as an adult, whenever we try something new, we're constantly worried about how we'll be perceived by others. We act like it's so embarassing just to try and do something, as if there was a shadoowy figure waiting in the proverbial wings to to scream, HaHa, you're *stupid*!" as soon as make a mistake. 
 
-Maybe it's just me. 
+Maybe that's just me. 
 
 Keep trying new things is the point I'm trying to make. So what if you fail? You will die, and likely sooner than you wish, and not one person will care what things you tried and failed at. But the people closest to you will probably remember you as someone who was no afraid to jump in with both feet and see what happens.  
 
