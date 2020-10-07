@@ -10,7 +10,11 @@ no idea what the protocol is in a situation like this, about announcing acceptan
 
 But still...I did it. 
 
-All the work has paid off, and it feels like being given a second chance at fulfilling a dream. I'm so excited I can't sleep at night, and I can't wait to finish this semester and get started. I'm also more than a little intimidated and nervous. I'd like to chalk it up to imposter syndrome, but I know that this will be more rigorous and challenging than anything I've done thus far. But I am so ready for this challenge. I think. I hope. 
+All the work has paid off, and it feels like being given a second chance at fulfilling a dream. I'm so excited I can't sleep at night, and I can't wait to finish this semester and get started. I'm also more than a little intimidated and nervous. I'd like to chalk it up to imposter syndrome, but I know that this will be more rigorous and challenging than anything I've done thus far. But I am so ready for this challenge. 
+
+I think. 
+
+I hope. 
 
 There have been precious few updates to either the blog and my Github in the last few weeks because I've been so busy, and because I've been working on Java lately. I know that that is a big part of my upcoming curriculum, so that's been my focus of late and I hope to have some new projects to upload soon. I also spent some time on HTML and CSS because I want to up upgrade this to a genuine porfolio page in the near future. I'm not under the illusion my skills are job-ready at this point, but soon...
 
